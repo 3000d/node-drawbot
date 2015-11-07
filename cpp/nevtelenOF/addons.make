@@ -1,5 +1,0 @@
-ofxXmlSettings
-ofxOpenCv
-ofxThreadedImageLoader
-ofxOsc
-ofxCv
